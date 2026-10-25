@@ -61,15 +61,27 @@ You can find more of my work on my [portfolio](https://oluwaferanmiportfolio.net
 | Data and services | PostgreSQL, Supabase, Firebase, Cloudflare R2 |
 | Workflow | Git, GitHub Actions, Docker, Postman, Figma |
 
+## My Toolbox 🛠️
+
+<div align="center">
+  <p><strong>Main stack</strong></p>
+  <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express" alt="Python, Flask, Node.js, and Express" />
+
+  <p><strong>Languages and frameworks</strong></p>
+  <img src="https://skillicons.dev/icons?i=python,c,js,ts,react,nextjs,tailwind,html,css" alt="Python, C, JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML, and CSS" />
+
+  <p><strong>Databases and services</strong></p>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,firebase,mongodb" alt="PostgreSQL, Supabase, Firebase, and MongoDB" />
+
+  <p><strong>Deployment and workflow</strong></p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,figma" alt="Docker, Git, GitHub, GitHub Actions, Postman, and Figma" />
+</div>
+
 ## GitHub activity
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nouth-Ayinla&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" alt="Oluwaferanmi's GitHub statistics" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nouth-Ayinla&layout=compact&hide_border=true&theme=transparent" alt="Languages used in Oluwaferanmi's public repositories" />
-</div>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nouth-Ayinla&hide_border=true&area=true&theme=github-compact" alt="Oluwaferanmi's GitHub contribution graph" />
 </div>
 
 <sub>The language card reflects my public repositories, not the full range of what I can work with.</sub>
